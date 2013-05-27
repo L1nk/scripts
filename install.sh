@@ -18,7 +18,4 @@ sudo apt-get install git
 
 echo ">>>>>>>>>> git installed. <<<<<<<<<<"
 
-
-
-
-
+echo ">>>>>>>>>> Installing node... <<<<<<<<<<"
