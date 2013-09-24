@@ -20,6 +20,10 @@ echo "\ninstalling default-jre \n"
 
 sudo apt-get install default-jre
 
+echo "\n installing default-jdk \n"
+
+sudo apt-get install default-jdk
+
 echo "\ninstalling scala \n"
 
 sudo apt-get install scala
